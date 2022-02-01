@@ -12,7 +12,7 @@
 
 ## Скрипт для работы с методом [URL Inspection Google API](https://developers.google.com/webmaster-tools/v1/urlInspection.index/inspect) (gsc_inspection.php)
 
-Для того чтобы скрипт работал, необходимо установить библиотеку google-api-php-client и создать сервисный аккаунт.
+Для того чтобы [скрипт](https://github.com/vital-prusakov/PHP-SEO-scripts/blob/main/gsc_inspection.php) работал, необходимо установить библиотеку google-api-php-client и создать сервисный аккаунт.
 
 Ограничения метода URL Inspection (на 01.02.2022):
 * 2,000 запросов в день на один ресурс (не домен!)
