@@ -10,7 +10,7 @@
 * В панеле Google Search Console для сайтов с которыми вы работаете добавить пользователя (email сервисного аккаунта) с нужными правами (для Indexing API нужны права владельца).
 * Отредактировать нужный файл данных выше. Не забыть указать вместо тестовых данных свой сайт.
 
-## Скрипт для работы с методом URL Inspection Google API (gsc_inspection.php)
+## Скрипт для работы с методом [URL Inspection Google API](https://developers.google.com/webmaster-tools/v1/urlInspection.index/inspect) (gsc_inspection.php)
 
 Для того чтобы скрипт работал, необходимо установить библиотеку google-api-php-client и создать сервисный аккаунт.
 
